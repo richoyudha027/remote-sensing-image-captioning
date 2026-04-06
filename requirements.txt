@@ -1,0 +1,13 @@
+numpy
+pandas
+Pillow
+matplotlib
+tqdm
+tensorflow==2.15.0
+tensorflow-hub==0.16.1
+protobuf==3.20.3
+torch
+torchvision
+transformers==4.40.0
+huggingface-hub
+open-clip-torch
