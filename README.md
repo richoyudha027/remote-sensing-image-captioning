@@ -27,8 +27,6 @@ Evaluated on the [Kaggle Satellite Image Caption Generation](https://www.kaggle.
 ## Setup
 
 ```bash
-git clone https://github.com/<username>/RSIC.git
-cd RSIC
 python -m venv .venv
 .venv\Scripts\activate      # Windows
 # source .venv/bin/activate # Linux/Mac
