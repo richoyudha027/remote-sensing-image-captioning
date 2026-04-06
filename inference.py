@@ -17,7 +17,7 @@ import logging
 logging.getLogger('tensorflow').setLevel(logging.ERROR)
 
 
-MODELS_DIR = './models'
+MODELS_DIR = './weights'
 
 VIT_BILSTM_MODEL_PATH     = os.path.join(MODELS_DIR, 'vit_bilstm_best_model.h5')
 VIT_BILSTM_TOKENIZER_PATH = os.path.join(MODELS_DIR, 'vit_bilstm_tokenizer.json')
