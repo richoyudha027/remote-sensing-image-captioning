@@ -27,9 +27,6 @@ Evaluated on the [Kaggle Satellite Image Caption Generation](https://www.kaggle.
 ## Setup
 
 ```bash
-python -m venv .venv
-.venv\Scripts\activate      # Windows
-# source .venv/bin/activate # Linux/Mac
 pip install -r requirements.txt
 ```
 
